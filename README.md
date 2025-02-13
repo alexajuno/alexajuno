@@ -1,14 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!-- **giolynx104/giolynx104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm Giao. Have a nice day! 😊
 
-<!-- Here are some ideas to get you started: -->
-
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on projects
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: via email or LinkedIn
-- 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ... -->
